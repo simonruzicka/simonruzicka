@@ -1,4 +1,3 @@
-### EN
 
 # Hello, I'm Šimon Růžička!
 **Software Developer | Project-Driven Learner | Tech & Creative**
@@ -15,23 +14,3 @@ I am a software developer with a background in the **PYTHON PRO** program, thoug
 
 ### 📫 Let's connect!
 * [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:simonruzicka0@gmail.com)
-
----
-
-### CZ
-
-# Ahoj, jmenuji se Šimon Růžička!
-**Software Developer | Vývojář & Kreativec**
-
-Jsem softwarový vývojář a absolvent kurzu **PYTHON PRO**. Nejvíce mě ale posouvá tvorba vlastních projektů – věřím, že praxe je ten nejlepší učitel. 
-
-> **Můj přístup ke kódu:** Při psaní využívám AI na denní bázi pro zefektivnění práce. Nechci ale být jen "vibe coder", který slepě kopíruje. Vygenerovaný kód si vždy čtu, upravuji a analyzuji. Jsem přesvědčený, že je důležité držet krok s AI trendy, ale mít pevné základy (fundamentals) je naprostá nutnost.
-
-### 🛠️ Technologie a Nástroje
-* **Jazyky:** Python, JavaScript, Kotlin, HTML, CSS
-* **Frameworky:** Django, React
-* **Kreativa a Design:** Photoshop, Premiere Pro, After Effects, Blender, Canva
-* **Právě se učím:** 🌱 Začínám prozkoumávat **Unity**
-
-### 📫 Kde mě najdete
-* [LinkedIn](TVŮJ_LINKEDIN_URL) | [E-mail](mailto:simonruzicka0@gmail.com)
