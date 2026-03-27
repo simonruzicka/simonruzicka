@@ -13,4 +13,4 @@ I am a software developer with a background in the **PYTHON PRO** program, thoug
 * **Current Learning:**  Diving into **Unity**
 
 ### 📫 Let's connect!
-* [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:simonruzicka0@gmail.com)
+* [Portfolio](https://simon-ruzicka-portfolio.netlify.app/) | [Email](mailto:simonruzicka0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/%C5%A1imon-r%C5%AF%C5%BEi%C4%8Dka-457a45206/)
